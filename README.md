@@ -1,5 +1,5 @@
 # aes_dinvoke
-a repository that contains the program.cs source file for the youtube video https://www.youtube.com/watch?v=UaOW_OHvvt8
+C# Shellcode Launcher - Undetected by Windows Defender 
 
 The program.cs file contains the implementation of the AES encrypter program used in lab 4 of the workshop: https://github.com/mvelazc0/defcon27_csharp_workshop
 
